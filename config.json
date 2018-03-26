@@ -1,0 +1,4 @@
+{
+  "database": "mongodb://localhost:27017/testdb",
+  "secretKey": "123123123123"
+}
